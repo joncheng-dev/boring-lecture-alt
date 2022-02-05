@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+div.intro {
+  color: blueviolet;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: x-large;
+  margin: 25px 100px;
+}
